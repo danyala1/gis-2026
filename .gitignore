@@ -35,4 +35,3 @@ Desktop.ini
 .env
 .env.local
 .env.*.local
-client/package.json
