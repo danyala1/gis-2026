@@ -635,7 +635,59 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "id": "way/300979336",
+            "properties": {
+                "timestamp": "2026-05-13T15:18:20Z",
+                "version": "2",
+                "changeset": "182607197",
+                "user": "Danila_Mayasov",
+                "uid": "23845970",
+                "highway": "service",
+                "id": "way/300979336"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        49.0967236,
+                        53.5106478
+                    ],
+                    [
+                        49.0963097,
+                        53.5089841
+                    ],
+                    [
+                        49.096364,
+                        53.5088593
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13825165950",
+            "properties": {
+                "timestamp": "2026-05-13T16:48:38Z",
+                "version": "1",
+                "changeset": "182611308",
+                "user": "Danila_Mayasov",
+                "uid": "23845970",
+                "lifeguard": "no",
+                "natural": "beach",
+                "supervised": "no",
+                "surface": "ground",
+                "id": "node/13825165950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.0897693,
+                    53.5077325
+                ]
+            }
         }
-        
     ]
 }
